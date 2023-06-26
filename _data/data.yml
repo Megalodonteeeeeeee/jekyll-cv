@@ -1,29 +1,29 @@
-name: John Doe
+name: juscreia
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: joaov.gomes.jvgp@gmail.com
+  github: joaovgo
+  linkedin: joaovgo
+  phone: +55 (84) 99616-5537
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
+  - idiom: Russian bs
   - idiom: French
 
 education:
   - degree: MSc in Informatics
     time: 2014-2016
-    university: Ionian University
+    university: Instituto Federal do Rio Grande Do Norte
 
   - degree: BSc in Computer Science
     time: 2010-2014
-    university: Ionian University
+    university: Instituto Federal do Rio Grande Do Norte
 
 skills:
   - category: Backend
