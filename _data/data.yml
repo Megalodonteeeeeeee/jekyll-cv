@@ -8,13 +8,12 @@ contact:
   github: joaovgo
   linkedin: joaovgo
   phone: +55 (84) 99616-5537
-  gitlab: 
-  twitter: 
+  gitlab: @contaficticia
+  twitter: @contaficticiatwitter
 
 languages:
-  - idiom: English
-  - idiom: Russian bs
-  - idiom: French
+  - idiom: Potuguês Brasil
+  - idiom: Inglês
 
 education:
   - degree: Formado em Informática
@@ -26,67 +25,36 @@ education:
     university: Instituto Federal do Rio Grande Do Norte
 
 skills:
-  - category: Backend
+  - category: Profissional
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - Foco
+      - Ajudante
 
 # Profile
-profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+profile: Formado por 4 anos em Federal Brasileira especializada e cursado em informática e técnico de sites e software, 5 anos de experiência na área. Referência: Amazon
 
 # Experience
 experience:
   - role: Técnico Software
     time: 3 anos em Amazon
     company: Amazon
-    details: |
-      Monitoramento de site em encomendas no site official Amazon.
-    technologies_used: | 
-      Python
+    details: Monitoramento de site em encomendas no site official Amazon.
+    technologies_used: Python
 
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: Como aprender Python fácil
+    link: linkficticio.com/como-aprender-python-facil
+    authors: João Vítor
+    conference: Conferência, 2022
 
 projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+  - title: Info para todos! 
+    link: linkficticio.com/info-para-todos
+    details: Distribuir computadores e aulas para escolas públicas.
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+  - time: 2022
+    role: Macaraúna do Sul
+    company: Informática Brasileira .ofc
+    details: Ministrar aulas públicas de informática.
